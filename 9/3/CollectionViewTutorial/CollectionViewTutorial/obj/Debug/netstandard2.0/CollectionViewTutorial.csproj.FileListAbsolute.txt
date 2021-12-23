@@ -1,0 +1,14 @@
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\CollectionViewTutorial.deps.json
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\CollectionViewTutorial.dll
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\ref\CollectionViewTutorial.dll
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\CollectionViewTutorial.pdb
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.csprojAssemblyReference.cache
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.AssemblyInfoInputs.cache
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.AssemblyInfo.cs
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.csproj.CoreCompileInputs.cache
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.dll
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\ref\CollectionViewTutorial.dll
+F:\ЛЕДЕНЕЕЕЕЕЕВ\9\3\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.pdb
